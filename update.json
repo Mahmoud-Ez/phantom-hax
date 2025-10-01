@@ -2,11 +2,7 @@
   "version": "1.6.0",
   "update_url": "https://top4top.io/downloadf-3557uq8qk1-rar.html",
   "broadcast": {
-    "card": "yes",
-    "timestamp": 0
-  },
-  "users": [
-    {
+    
       "user_name": "Mahmoud",
       "mac_address": "IwtN8gWHs8eTrMkfO9Dp+VidUafFuVsA//dboDgHNgmY9Q2CVw4R79wtKJOGtgaPiWOY8/O2JDOh73Bc4VIYgg==",
       "end_date": "2099-12-08 11:19:40",
@@ -16,7 +12,6 @@
       "user_name": "VM",
       "mac_address": "5QyHzLQDTp1BsRgQtI56oLmqJ4poQrtfwnyjd80+kMZ9pXaO1AUgSJdP9so5Z3AHsSZeQz0BouImHWOkJpcIMdGDip0cPeqy7gBdzmqihzw=",
       "end_date": "2099-12-08 11:19:40",
-      "card": "yes"
     }
   ]
 }
