@@ -1,17 +1,5 @@
 {
-  "name": "SkyNet",
   "version": "1.0.0",
-  "release_date": "2025-11-01T00:00:00Z",
-  "url": "https://github.com/Mahmoud-Ez/phantom-hax/releases/download/v1.0.0/SkyNet.zip",
-  "sha256": "REPLACE_WITH_SHA256",
-  "size_bytes": 1234567,
-  "min_app_version": "1.0.0",
-  "mandatory": false,
-  "notes": "Initial release of SkyNet",
-  "changelog": [
-    "Initial release",
-    "Core features implemented",
-    "Ad-skip support",
-    "SunnyNet integration"
-  ]
+  "update_url": "https://www.facebook.com/Python.0rg",
+  "users": []
 }
