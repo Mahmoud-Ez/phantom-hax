@@ -21,8 +21,14 @@
       "user_name": "Ahmed",
       "mac_address": "WroLfj1515v2LeyJeJsSKdkcVRKJWKxuaWCYj7zlp5lf+kQkMd5uivo5Wn9wJr9eczE5K99krhPizxVOrlBjk3ZowJJ6QHsF0fSrBz7RHWM=",
       "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "Werston",
+      "mac_address": "MAC_ADDRESS_HERE",  // يمكنك استبدال هذا بـ MAC address الصحيح للمستخدم الجديد
+      "end_date": "2099-01-24 11:19:40"
     }
   ]
 }
+
 
 
