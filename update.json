@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "update_url": "https://alt-eu-central-1-13.transferxl-download.com/m-euc1-12/f0cb66f331acb7c3c49d416456a1e5ca-0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=VRUC2IB382WVAN635LVP%2F20260102%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260102T070948Z&X-Amz-Expires=900&X-Amz-Signature=c3bee581d2deb9d675dd4017de4144134ec37be2c21641c083ebf7cafbd14f4a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22TransferXL-08v8KNhtMBtbbN.zip%22",
+  "version": "1.0.0",
+  "update_url": "",
   "users": [
     {
       "user_name": "HäSSäN",
